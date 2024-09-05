@@ -406,14 +406,14 @@ footer {
 
 .footer-container {
     color: #FFF2E7;
-    font-family: 'Inter', sans-serif;
+    font-family: sans-serif;
     font-size: 1rem;
     font-weight: 500;
 }
 
 .footer-content {
     color: rgba(255, 242, 231, 0.50);
-    font-family: 'Inter', sans-serif;
+    font-family: sans-serif;
     font-size: 1rem;
     font-weight: 500;
 }
